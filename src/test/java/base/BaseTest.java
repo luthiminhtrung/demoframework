@@ -11,6 +11,7 @@ import org.openqa.selenium.support.events.EventFiringWebDriver;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.BeforeTest;
 import pages.BasePage;
 import webdriver.DriverManager;
@@ -23,20 +24,24 @@ import java.util.Map;
 
 public class BaseTest {
 
-    private EventFiringWebDriver driver;
-    private DriverManager driverManager;
-    private BasePage basePage;
-    private Map scenarioContext;
+    public EventFiringWebDriver driver;
+    public DriverManager driverManager;
+    public BasePage basePage;
+    public Map scenarioContext;
 
-    @Before
-    @BeforeTest
-    public void setUp(){
+    public void BaseTest(){
         driverManager = (new DriverManagerFactory()).getDriverManger();
         driver = driverManager.getDriver();
         driver.register(new EventListener());
-        driver.get(FileReaderManager.getInstance().getConfigReader().getApplicationUrl());
         basePage = new BasePage(driver);
         scenarioContext = new HashMap();
+    }
+
+
+    @Before
+    @BeforeSuite
+    public void setUp(){
+        driver.get(FileReaderManager.getInstance().getConfigReader().getApplicationUrl());
     }
 
     public EventFiringWebDriver getDriver(){

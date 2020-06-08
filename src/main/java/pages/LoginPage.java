@@ -33,5 +33,10 @@ public class LoginPage extends BasePage {
         loginButton.click();
     }
 
+    public void inputCriteria(String username, String password){
+        emailField.sendKeys(username);
+        passwordField.sendKeys(password);
+        loginButton.click();
+    }
 
 }
