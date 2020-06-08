@@ -1,0 +1,218 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-06-05T08:45:00.028Z",
+        "before": [
+          {
+            "result": {
+              "duration": 6667261000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "cucumber.base.BaseTest.setUp()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "Login Successful",
+        "description": "",
+        "id": "login-functionality;login-successful;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 144961000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "cucumber.base.BaseTest.TearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 14919000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I am in the login page of the Para Bank Application",
+            "match": {
+              "location": "cucumber.stepsDefinition.HomePageSteps.i_am_in_the_login_page_of_the_Para_Bank_Application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 982388000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I click on Authenticate link",
+            "match": {
+              "location": "cucumber.stepsDefinition.HomePageSteps.iClickOnAuthenticateLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1081612000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I enter valid \"tomsmith\" and \"SuperSecretPassword!\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"tomsmith\"",
+                  "offset": 14
+                },
+                {
+                  "val": "\"SuperSecretPassword!\"",
+                  "offset": 29
+                }
+              ],
+              "location": "cucumber.stepsDefinition.HomePageSteps.i_enter_valid_credentials_(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 29126000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I should be taken to the Overview page. \"tomsmith\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"tomsmith\"",
+                  "offset": 40
+                }
+              ],
+              "location": "cucumber.stepsDefinition.HomePageSteps.i_should_be_taken_to_the_Overview_page(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login Functionality",
+    "description": "\tIn order to do internet banking\n\tAs a valid Para Bank customer\n\tI want to login successfully",
+    "id": "login-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/functional/Login.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-06-05T08:45:09.067Z",
+        "before": [
+          {
+            "result": {
+              "duration": 3609446000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "cucumber.base.BaseTest.setUp()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "Login Successful",
+        "description": "",
+        "id": "login-functionality;login-successful;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 116667000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "cucumber.base.BaseTest.TearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1253000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I am in the login page of the Para Bank Application",
+            "match": {
+              "location": "cucumber.stepsDefinition.HomePageSteps.i_am_in_the_login_page_of_the_Para_Bank_Application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 795845000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I click on Authenticate link",
+            "match": {
+              "location": "cucumber.stepsDefinition.HomePageSteps.iClickOnAuthenticateLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 935184000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I enter valid \"tomsmith\" and \"SuperSecretPassword!\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"tomsmith\"",
+                  "offset": 14
+                },
+                {
+                  "val": "\"SuperSecretPassword!\"",
+                  "offset": 29
+                }
+              ],
+              "location": "cucumber.stepsDefinition.HomePageSteps.i_enter_valid_credentials_(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 26332000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I should be taken to the Overview page. \"tomsmith\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"tomsmith\"",
+                  "offset": 40
+                }
+              ],
+              "location": "cucumber.stepsDefinition.HomePageSteps.i_should_be_taken_to_the_Overview_page(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login Functionality",
+    "description": "\tIn order to do internet banking\n\tAs a valid Para Bank customer\n\tI want to login successfully",
+    "id": "login-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/functional/Login1.feature",
+    "tags": []
+  }
+]

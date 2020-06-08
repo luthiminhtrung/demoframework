@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="27.743">
+    <testcase classname="Login Functionality" name="Login Successful" time="14.511">
+        <system-out><![CDATA[Given I am in the login page of the Para Bank Application...................passed
+When I click on Authenticate link...........................................passed
+And I enter valid "tomsmith" and "SuperSecretPassword!".....................passed
+Then I should be taken to the Overview page. "tomsmith".....................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Login Functionality" name="Login Successful" time="12.919">
+        <system-out><![CDATA[Given I am in the login page of the Para Bank Application...................passed
+When I click on Authenticate link...........................................passed
+And I enter valid "tomsmith" and "SuperSecretPassword!".....................passed
+Then I should be taken to the Overview page. "tomsmith".....................passed
+]]></system-out>
+    </testcase>
+</testsuite>
