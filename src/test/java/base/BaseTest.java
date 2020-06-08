@@ -1,4 +1,4 @@
-package cucumber.base;
+package base;
 
 import com.google.common.io.Files;
 import dataProvider.FileReaderManager;

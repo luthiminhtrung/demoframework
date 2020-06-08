@@ -1,4 +1,4 @@
-package cucumber.stepsDefinition;//import cucumber.base.BaseTest;
+package cucumber.stepsDefinition;//import base.BaseTest;
 //import io.cucumber.datatable.DataTable;
 //import io.cucumber.java.After;
 //import io.cucumber.java.Before;
@@ -19,16 +19,10 @@ package cucumber.stepsDefinition;//import cucumber.base.BaseTest;
 //import pages.SecureAreaPage;
 
 
-import cucumber.base.BaseTest;
-import io.cucumber.java.en.And;
-import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
+import base.BaseTest;
 import io.cucumber.java.en.When;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
-import org.testng.Assert;
-import pages.HomePage;
 import pages.LoginPage;
-import pages.SecureAreaPage;
 
 //import static org.junit.Assert.assertTrue;
 

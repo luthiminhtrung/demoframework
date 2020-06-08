@@ -1,4 +1,4 @@
-package cucumber.base;
+package base;
 
 public class BaseUtil {
 	

@@ -1,8 +1,7 @@
 package test;
 
-import cucumber.base.BaseTest;
-import pages.BasePage;
+import base.BaseTest;
 
 public class TestClass extends BaseTest {
-
+ public String a;
 }
