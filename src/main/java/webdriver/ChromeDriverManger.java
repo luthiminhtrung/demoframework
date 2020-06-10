@@ -1,6 +1,7 @@
 package webdriver;
 
 import dataProvider.FileReaderManager;
+import listener.EventListener;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
@@ -11,6 +12,7 @@ public class ChromeDriverManger extends DriverManager {
     protected void createLocalDriver() {
         System.setProperty("webdriver.chrome.driver", FileReaderManager.getInstance().getConfigReader().getDriverPath() + "chromedriver");
         driver = new EventFiringWebDriver(new ChromeDriver(getChromeOptions()));
+        driver.register(new EventListener());
     }
     @Override
     protected void createRemoteDriver() {

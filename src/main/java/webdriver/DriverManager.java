@@ -32,5 +32,6 @@ public abstract class DriverManager {
                 createRemoteDriver();
                 break;
         }
+        driver.manage().window().maximize();
     }
 }

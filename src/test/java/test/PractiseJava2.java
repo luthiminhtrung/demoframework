@@ -13,8 +13,5 @@ public class PractiseJava2 {
         fruit.add("orange");
         fruit.add("lemon");
 
-        var i = fruit.iterator();
-        while(i.hasNext())
-            System.out.println(i.next());
     }
     }

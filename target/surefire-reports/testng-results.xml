@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-10T15:07:24 ICT" name="Suite" finished-at="2020-06-10T15:07:33 ICT" duration-ms="9798">
+    <groups>
+    </groups>
+    <test started-at="2020-06-10T15:07:24 ICT" name="Test1" finished-at="2020-06-10T15:07:33 ICT" duration-ms="9798">
+      <class name="seleniumTests.homePage.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:seleniumTests.homePage.HomePageTest@701fc37a]" started-at="2020-06-10T15:07:24 ICT" name="setUp" finished-at="2020-06-10T15:07:29 ICT" duration-ms="5678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUpBeforeMethod()[pri:0, instance:seleniumTests.homePage.HomePageTest@701fc37a]" started-at="2020-06-10T15:07:29 ICT" name="setUpBeforeMethod" finished-at="2020-06-10T15:07:30 ICT" duration-ms="365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="testFormAuthentication()[pri:0, instance:seleniumTests.homePage.HomePageTest@701fc37a]" started-at="2020-06-10T15:07:30 ICT" name="testFormAuthentication" finished-at="2020-06-10T15:07:32 ICT" duration-ms="2062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFormAuthentication -->
+        <test-method is-config="true" signature="setUpBeforeMethod()[pri:0, instance:seleniumTests.homePage.HomePageTest@701fc37a]" started-at="2020-06-10T15:07:32 ICT" name="setUpBeforeMethod" finished-at="2020-06-10T15:07:32 ICT" duration-ms="342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="testFrames()[pri:0, instance:seleniumTests.homePage.HomePageTest@701fc37a]" started-at="2020-06-10T15:07:32 ICT" name="testFrames" finished-at="2020-06-10T15:07:33 ICT" duration-ms="1225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFrames -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:seleniumTests.homePage.HomePageTest@701fc37a]" started-at="2020-06-10T15:07:33 ICT" name="TearDown" finished-at="2020-06-10T15:07:33 ICT" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- seleniumTests.homePage.HomePageTest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -24,11 +24,104 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d00f1946-e51b-4854-9099-2b8d174c83b3" name="Default Changelist" comment="" />
+    <list default="true" id="d00f1946-e51b-4854-9099-2b8d174c83b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/DropDownPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/FramesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/IFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webdriver/SafariDriverManger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumTests/dropdown/DropDownPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pages/DropDownPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pages/FramesPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pages/IFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/webdriver/SafariDriverManger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/seleniumTests/dropdown/DropDownPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/demoframework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/demoframework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_core_5_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_expressions_8_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_gherkin_5_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_gherkin_vintage_5_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_java_5_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_junit_5_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_picocontainer_5_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_plugin_5_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_datatable_3_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_docstring_5_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_tag_expressions_2_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_picocontainer_picocontainer_2_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webdriver/ChromeDriverManger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webdriver/ChromeDriverManger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webdriver/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webdriver/DriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webdriver/DriverManagerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webdriver/DriverManagerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webdriver/FireFoxDriverManger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webdriver/FireFoxDriverManger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cucumber/runner/TestRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cucumber/stepsDefinition/HomePageSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cucumber/stepsDefinition/LoginPageSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumTests/homePage/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumTests/homePage/HomePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/PractiseJava2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/PractiseJava2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/trungframeworkpractise.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataProvider/ConfigFileReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dataProvider/ConfigFileReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataProvider/FileReaderManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dataProvider/FileReaderManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/enums/DriverType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/enums/DriverType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/enums/EnvironmentType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/enums/EnvironmentType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/listener/EventListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/listener/EventListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/SecureAreaPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/SecureAreaPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/Wait.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/Wait.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webdriver/ChromeDriverManger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webdriver/ChromeDriverManger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webdriver/DriverManager$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webdriver/DriverManager$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webdriver/DriverManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webdriver/DriverManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webdriver/DriverManagerFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webdriver/DriverManagerFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webdriver/DriverManagerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webdriver/DriverManagerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webdriver/FireFoxDriverManger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webdriver/FireFoxDriverManger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/Cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/Cucumber.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/formatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/trungframeworkpractise.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/base/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/base/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/base/BaseUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/base/BaseUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cucumber/runner/TestRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cucumber/stepsDefinition/HomePageSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cucumber/stepsDefinition/LoginPageSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/dataTypes/Customer$Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/dataTypes/Customer$Address.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/dataTypes/Customer$PhoneNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/dataTypes/Customer$PhoneNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/dataTypes/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/dataTypes/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumTests/LoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumTests/LoginTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumTests/homePage/HomePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumTests/homePage/HomePageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/PractiseJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/PractiseJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/PractiseJava2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/PractiseJava2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,11 +132,80 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="pages" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="webdriver" />
+      <recent name="pages" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/trunglu/Documents/automationTraining/GIT/OriginalFramework/demoframework/testng.xml">
+    <configuration name="DropDownPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumTests.dropdown.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumTests.dropdown" />
+      <option name="MAIN_CLASS_NAME" value="seleniumTests.dropdown.DropDownPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumTests.homePage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumTests.homePage" />
+      <option name="MAIN_CLASS_NAME" value="seleniumTests.homePage.HomePageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/trunglu/Documents/automationTraining/GIT/OriginalFramework/demoframework/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoframework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/trunglu/Documents/automationTraining/GIT/OriginalFramework/demoframework/testng.xml" />
+        <item itemvalue="TestNG.DropDownPageTest" />
+        <item itemvalue="TestNG.HomePageTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -69,5 +231,130 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="213" y="384" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1591595781327">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="213" y="384" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.825@0.23.1440.825" timestamp="1591595781327" />
+    <state x="510" y="341" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1591595782875">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="510" y="341" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.825@0.23.1440.825" timestamp="1591595782875" />
+    <state x="507" y="303" key="#com.intellij.refactoring.move.moveInner.MoveInnerDialog" timestamp="1591754735293">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="507" y="303" key="#com.intellij.refactoring.move.moveInner.MoveInnerDialog/0.23.1440.827@0.23.1440.827" timestamp="1591754735293" />
+    <state x="426" y="273" key="#xdebugger.evaluate" timestamp="1591756101222">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="540" y="269" key="#xdebugger.evaluate/0.23.1440.825@0.23.1440.825" timestamp="1591597639760" />
+    <state x="517" y="271" key="#xdebugger.evaluate/0.23.1440.827@0.23.1440.827" timestamp="1591598434649" />
+    <state x="426" y="273" key="#xdebugger.evaluate/0.23.1440.829@0.23.1440.829" timestamp="1591756101222" />
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom" timestamp="1591772235480">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1358" height="248" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1591597765728" />
+    <state width="1358" height="248" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1591761716266" />
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1591762607341" />
+    <state width="1358" height="248" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1591761479344" />
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1591772235480" />
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1591765586345" />
+    <state width="1358" height="199" key="GridCell.Tab.0.center" timestamp="1591772235478">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1358" height="248" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1591597765725" />
+    <state width="1358" height="248" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1591761716266" />
+    <state width="1358" height="199" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1591762607341" />
+    <state width="1358" height="248" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1591761479343" />
+    <state width="1358" height="199" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1591772235478" />
+    <state width="1358" height="199" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1591765586344" />
+    <state width="1358" height="199" key="GridCell.Tab.0.left" timestamp="1591772235477">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1358" height="248" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1591597765724" />
+    <state width="1358" height="248" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1591761716266" />
+    <state width="1358" height="199" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1591762607340" />
+    <state width="1358" height="248" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1591761479343" />
+    <state width="1358" height="199" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1591772235477" />
+    <state width="1358" height="199" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1591765586344" />
+    <state width="1358" height="199" key="GridCell.Tab.0.right" timestamp="1591772235479">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1358" height="248" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1591597765727" />
+    <state width="1358" height="248" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1591761716266" />
+    <state width="1358" height="199" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1591762607341" />
+    <state width="1358" height="248" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1591761479343" />
+    <state width="1358" height="199" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1591772235479" />
+    <state width="1358" height="199" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1591765586344" />
+    <state width="1358" height="248" key="GridCell.Tab.1.bottom" timestamp="1591762589052">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="248" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1591597766803" />
+    <state width="1358" height="248" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1591761727450" />
+    <state width="1358" height="248" key="GridCell.Tab.1.bottom/0.23.1440.828@0.23.1440.828" timestamp="1591762589052" />
+    <state width="1358" height="248" key="GridCell.Tab.1.bottom/0.23.1440.829@0.23.1440.829" timestamp="1591761479054" />
+    <state width="1358" height="248" key="GridCell.Tab.1.center" timestamp="1591762589051">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="248" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1591597766802" />
+    <state width="1358" height="248" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1591761727449" />
+    <state width="1358" height="248" key="GridCell.Tab.1.center/0.23.1440.828@0.23.1440.828" timestamp="1591762589051" />
+    <state width="1358" height="248" key="GridCell.Tab.1.center/0.23.1440.829@0.23.1440.829" timestamp="1591761479053" />
+    <state width="1358" height="248" key="GridCell.Tab.1.left" timestamp="1591762589051">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="248" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1591597766802" />
+    <state width="1358" height="248" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1591761727448" />
+    <state width="1358" height="248" key="GridCell.Tab.1.left/0.23.1440.828@0.23.1440.828" timestamp="1591762589051" />
+    <state width="1358" height="248" key="GridCell.Tab.1.left/0.23.1440.829@0.23.1440.829" timestamp="1591761479052" />
+    <state width="1358" height="248" key="GridCell.Tab.1.right" timestamp="1591762589051">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="248" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1591597766803" />
+    <state width="1358" height="248" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1591761727449" />
+    <state width="1358" height="248" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1591762589051" />
+    <state width="1358" height="248" key="GridCell.Tab.1.right/0.23.1440.829@0.23.1440.829" timestamp="1591761479053" />
+    <state x="278" y="115" key="Maven.ArtifactSearchDialog" timestamp="1591758798674">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="278" y="115" key="Maven.ArtifactSearchDialog/0.23.1440.828@0.23.1440.828" timestamp="1591757736488" />
+    <state x="278" y="115" key="Maven.ArtifactSearchDialog/0.23.1440.829@0.23.1440.829" timestamp="1591758798674" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/BasePage.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/IFrame.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/LoginPage.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/seleniumTests/homePage/HomePageTest.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/seleniumTests/homePage/HomePageTest.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/HomePage.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -23,13 +23,16 @@ public class DriverManagerFactory {
          DriverManager driverManager;
         System.out.println(FileReaderManager.getInstance().getConfigReader().getBrowser());
          switch (driverType) {
-            case CHROME:
-                driverManager = new ChromeDriverManger();
-                break;
-
-            default:
+             case FIREFOX:
                 driverManager = new FireFoxDriverManger();
                 break;
+             case SAFARI:
+                 driverManager = new SafariDriverManger();
+                 break;
+             default:
+                 driverManager = new ChromeDriverManger();
+                 break;
+
         }
          return driverManager;
      }

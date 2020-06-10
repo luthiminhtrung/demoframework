@@ -13,8 +13,19 @@ public class HomePage extends BasePage {
         driver.get(FileReaderManager.getInstance().getConfigReader().getApplicationUrl());
     }
 
-    public void clickFormAuthentication(){
+    public LoginPage clickFormAuthentication(){
         clickLink("Form Authentication");
+        return this.getLoginPage();
+    }
+
+    public FramesPage clickFrame(){
+        clickLink("Frames");
+        return this.getFramesPage();
+    }
+
+    public DropDownPage clickDropDownLink() {
+        clickLink("Dropdown");
+        return this.getDropDownPage();
     }
 
 

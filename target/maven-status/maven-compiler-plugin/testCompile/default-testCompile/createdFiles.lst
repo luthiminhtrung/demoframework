@@ -1,0 +1,11 @@
+dataTypes/Customer$PhoneNumber.class
+seleniumTests/dropdown/DropDownPageTest.class
+seleniumTests/homePage/HomePageTest.class
+test/PractiseJava2.class
+dataTypes/Customer$Address.class
+seleniumTests/LoginTests.class
+test/PractiseJava.class
+base/BaseTest.class
+test/TestClass.class
+dataTypes/Customer.class
+base/BaseUtil.class
